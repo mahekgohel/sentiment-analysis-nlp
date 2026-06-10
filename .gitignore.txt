@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# HuggingFace model cache — don't commit, it's 300MB+
+.cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# data files
+*.csv
+*.json
+data/
+
+# logs
+*.log
