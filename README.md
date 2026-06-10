@@ -2,7 +2,7 @@
 
 A web app that compares three NLP sentiment models — TextBlob, VADER, and DistilBERT — on any English text. Built with Streamlit and deployed on Streamlit Cloud.
 
-**Live demo:** *(add your Streamlit Cloud link here after deploying)*
+**Live demo:** 
 
 ---
 
